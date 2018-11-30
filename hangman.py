@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: Valerii Buslaiev in coordination with Vladyslav Marchenko and Maksym Kurylko
+# Name: Vladyslav Marchenko in coordination with Valerii Buslaiev and Maksym Kurylko
 # Collaborators: Valerii Buslaiev, Vladyslav Marchenko, Maksym Kurylko
 # Time spent: 4 hours
 
